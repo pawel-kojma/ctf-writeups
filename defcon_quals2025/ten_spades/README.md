@@ -47,6 +47,6 @@ Last function is user input check, which checks if the provided deck is the same
 ![](./tenspades_check_user_cards.png)
 
 With that knowledge we can write a script that generates the deck given the 32-bit random last element of the state.
-Generator code is in `solve.py`, is outputs the input for the program.
+Generator code is in `solve.py`. It outputs the input for the program.
 
 ![](./tenspades_solve.png)
